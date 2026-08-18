@@ -44,6 +44,10 @@ h1 {
     color: #fcfafa;
 }
 
+html {
+    cursor: url('img/frog.ico'), auto;
+}
+
 body {
     background-color: rgb(149, 176, 177);
     font-family: 'Courier New', Courier, monospace;
@@ -53,7 +57,7 @@ body {
     max-width: 800px;
     width: 90%;
     margin: 0 auto;
-    cursor: url('https://www.flaticon.com/free-icons/pointer'), auto;
+    cursor: url('img/frog.ico'), auto;
 }
 
 .filter-red {
