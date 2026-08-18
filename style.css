@@ -47,13 +47,13 @@ h1 {
 body {
     background-color: rgb(149, 176, 177);
     font-family: 'Courier New', Courier, monospace;
-    margin: 0;
     padding: 20px;
     border: 5px solid whitesmoke;
     height: auto;
     max-width: 800px;
     width: 90%;
     margin: 0 auto;
+    cursor: url('https://www.flaticon.com/free-icons/pointer'), auto;
 }
 
 .filter-red {
